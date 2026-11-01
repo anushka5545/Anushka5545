@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Anushka Santosh Powar 👋
 
-<!--
-**anushka5545/Anushka5545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science Student  
+💻 Aspiring Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about Data Science, Machine Learning, Data Analytics and developing real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL, HTML, CSS, JavaScript
+- **Data Analysis:** Pandas, NumPy, Excel, Statistics
+- **Machine Learning:** Scikit-learn, Regression, Classification
+- **Visualization:** Power BI, Tableau, Matplotlib
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+
+## 🚀 My Projects
+
+- Healthcare Machine Learning Project
+- Student Performance Prediction System
+- Credit Card Approval Prediction System
+- AlgoViz – Data Structure Visualizer
+
+## 🎓 Education
+
+B.Sc. Data Science  
+D. Y. Patil Agriculture and Technical University, Talsande
+
+## 📜 Certifications & Achievements
+
+- GenAI Powered Data Analytics Job Simulation – Forage
+- Generative AI at Work
+- Git & GitHub Training – ExcelR
+- Sou. Shantadevi Scholarship – D. Y. Patil Agriculture and Technical University, Talsande
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/anushka-powar-26276733b
+- **GitHub:** https://github.com/anushka5545
