@@ -1,38 +1,50 @@
-# Hi, I'm Anushka Santosh Powar 👋
 
-🎓 B.Sc. Data Science Student  
-💻 Aspiring Data Scientist | Machine Learning Enthusiast
+# Hi, I'm Anushka Santosh Powar! 👋
 
-I am passionate about Data Science, Machine Learning, Data Analytics and developing real-world projects.
+### 🎓 Data Science Student | Aspiring Data Scientist
 
-## 🛠️ Technical Skills
+Welcome to my GitHub! I am passionate about Data Science, Machine Learning, Python and solving real-world problems using data.
 
-- **Programming:** Python, SQL, HTML, CSS, JavaScript
-- **Data Analysis:** Pandas, NumPy, Excel, Statistics
-- **Machine Learning:** Scikit-learn, Regression, Classification
-- **Visualization:** Power BI, Tableau, Matplotlib
-- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+---
 
-## 🚀 My Projects
+### 🚀 About Me
+- 🎓 Pursuing B.Sc. Data Science
+- 🐍 Working with Python and SQL
+- 🤖 Exploring Machine Learning and AI
+- 📊 Interested in Data Analytics and Visualization
+- 💡 Building practical projects and learning new technologies
 
-- Healthcare Machine Learning Project
-- Student Performance Prediction System
-- Credit Card Approval Prediction System
-- AlgoViz – Data Structure Visualizer
+### 🛠️ Technical Skills
 
-## 🎓 Education
+**Languages:** Python, SQL, HTML, CSS, JavaScript
 
-B.Sc. Data Science  
-D. Y. Patil Agriculture and Technical University, Talsande
+**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
 
-## 📜 Certifications & Achievements
+**Visualization:** Power BI, Tableau, Excel
 
-- GenAI Powered Data Analytics Job Simulation – Forage
-- Generative AI at Work
-- Git & GitHub Training – ExcelR
-- Sou. Shantadevi Scholarship – D. Y. Patil Agriculture and Technical University, Talsande
+**Tools:** Jupyter Notebook, Git, GitHub
 
-## 📫 Connect With Me
+### 📂 My Projects
 
-- **LinkedIn:** https://www.linkedin.com/in/anushka-powar-26276733b
-- **GitHub:** https://github.com/anushka5545
+| Project | Description |
+|---|---|
+| AlgoViz | Data Structure Visualizer |
+| Healthcare ML | Machine Learning for Healthcare |
+| Student Performance | Student Result Prediction |
+| Credit Card Approval | Credit Approval Prediction |
+
+### 🌐 Connect With Me
+
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushka-powar-26276733b)
+- GitHub: [@anushka5545](https://github.com/anushka5545)
+
+---
+
+⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight" height="180"/>
+</p>
