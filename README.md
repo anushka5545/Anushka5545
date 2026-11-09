@@ -1,50 +1,96 @@
 
-# Hi, I'm Anushka Santosh Powar! 👋
+<div align="center">
 
-### 🎓 Data Science Student | Aspiring Data Scientist
+# 👋 Hi, I'm Anushka Santosh Powar
 
-Welcome to my GitHub! I am passionate about Data Science, Machine Learning, Python and solving real-world problems using data.
+### 💜 Data Science Student | Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Insights;Building+Real+World+Projects" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=anushka5545&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
 
 ---
 
-### 🚀 About Me
+## 🌸 About Me
+
 - 🎓 Pursuing B.Sc. Data Science
-- 🐍 Working with Python and SQL
-- 🤖 Exploring Machine Learning and AI
-- 📊 Interested in Data Analytics and Visualization
-- 💡 Building practical projects and learning new technologies
+- 🐍 Interested in Python and SQL
+- 🤖 Learning Machine Learning and Artificial Intelligence
+- 📊 Exploring Data Analytics and Visualization
+- 🚀 Building practical projects
+- 💡 Passionate about learning new technologies
 
-### 🛠️ Technical Skills
+---
 
-**Languages:** Python, SQL, HTML, CSS, JavaScript
+## 💻 Tech Stack
 
-**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+<div align="center">
 
-**Visualization:** Power BI, Tableau, Excel
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,github,git,vscode" />
 
-**Tools:** Jupyter Notebook, Git, GitHub
+<br/><br/>
 
-### 📂 My Projects
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,anaconda" />
+
+</div>
+
+**Data Tools:** Pandas • NumPy • Matplotlib • Power BI • Tableau • Excel
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| AlgoViz | Data Structure Visualizer |
-| Healthcare ML | Machine Learning for Healthcare |
-| Student Performance | Student Result Prediction |
-| Credit Card Approval | Credit Approval Prediction |
+| 🧠 AlgoViz | Data Structure Visualizer |
+| 🏥 Healthcare ML | Healthcare Machine Learning |
+| 🎓 Student Performance | Student Result Prediction |
+| 💳 Credit Card Approval | Credit Approval Prediction |
 
-### 🌐 Connect With Me
-
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/anushka-powar-26276733b)
-- GitHub: [@anushka5545](https://github.com/anushka5545)
+🔗 [Explore My GitHub Repositories](https://github.com/anushka5545?tab=repositories)
 
 ---
 
-⭐ Thanks for visiting my profile!
-
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=anushka5545&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anushka-powar-26276733b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/anushka5545">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Learning Every Day, Building Every Day!" ✨
+
+⭐ Thank you for visiting my profile!
+
+</div>
