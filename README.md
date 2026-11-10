@@ -96,6 +96,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anushka5545&theme=black-ice&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+</p>
+
 
 ## 🌐 CONNECT WITH ME
 
