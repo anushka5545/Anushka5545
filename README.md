@@ -89,11 +89,21 @@
 ---
 
 
-## 📊 GITHUB STATISTICS
+
+## 📊 MY GITHUB STATISTICS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka5545&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushka5545&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushka5545&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushka5545&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushka5545&theme=github_dark" width="49%" />
 </p>
 
 <p align="center">
