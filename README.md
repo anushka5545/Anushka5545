@@ -27,16 +27,77 @@
 
 ---
 
-## ⚡ MY SKILLS
 
-### Programming
-<div>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+## ⚡ MY TECHNICAL SKILLS
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+</p>
+<p>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</div>
+</p>
+<p>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00BFFF"/>
+</p>
+
+### 📊 Data Science & Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF"/>
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Regression-000000?style=for-the-badge&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Classification-000000?style=for-the-badge"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-000000?style=for-the-badge"/>
+</p>
+
+### 📈 Visualization Tools
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-000000?style=for-the-badge&logo=jupyter&logoColor=00BFFF"/>
+</p>
 
 ### Data Science
 <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
