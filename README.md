@@ -88,19 +88,14 @@
 
 ---
 
+
 ## 📊 GITHUB STATISTICS
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=transparent&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=transparent&title_color=00BFFF&text_color=FFFFFF&bg_color=000000&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=github_dark&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=anushka5545&theme=black-ice&hide_border=true" width="90%"/>
-
-</div>
-
----
 
 ## 🌐 CONNECT WITH ME
 
