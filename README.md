@@ -1,96 +1,104 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Anushka Santosh Powar
+# ANUSHKA SANTOSH POWAR
 
-### 💜 Data Science Student | Machine Learning Enthusiast
+### 💙 DATA SCIENCE | MACHINE LEARNING | PYTHON
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=9D7BFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+into+Insights;Building+Real+World+Projects" />
+<img src="https://img.shields.io/badge/DATA%20SCIENCE-000000?style=for-the-badge&logo=databricks&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF"/>
 
-<br/>
+**Welcome to my GitHub profile!**
 
-<img src="https://komarev.com/ghpvc/?username=anushka5545&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
-
----
-
-## 🌸 About Me
-
-- 🎓 Pursuing B.Sc. Data Science
-- 🐍 Interested in Python and SQL
-- 🤖 Learning Machine Learning and Artificial Intelligence
-- 📊 Exploring Data Analytics and Visualization
-- 🚀 Building practical projects
-- 💡 Passionate about learning new technologies
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,github,git,vscode" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,anaconda" />
+*Turning data into insights and ideas into projects.*
 
 </div>
 
-**Data Tools:** Pandas • NumPy • Matplotlib • Power BI • Tableau • Excel
+---
+
+## 👩‍💻 ABOUT ME
+
+- 🎓 B.Sc. Data Science Student
+- 🐍 Python and SQL enthusiast
+- 🤖 Interested in AI and Machine Learning
+- 📊 Learning Data Analytics and Visualization
+- 🚀 Building real-world projects
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ MY SKILLS
+
+### Programming
+<div>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</div>
+
+### Data Science
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00BFFF"/>
+
+---
+
+## 🚀 MY PROJECTS
 
 | Project | Description |
 |---|---|
-| 🧠 AlgoViz | Data Structure Visualizer |
-| 🏥 Healthcare ML | Healthcare Machine Learning |
-| 🎓 Student Performance | Student Result Prediction |
-| 💳 Credit Card Approval | Credit Approval Prediction |
+| 🏥 Healthcare ML | Healthcare prediction using Machine Learning |
+| 🎓 Student Performance | Student performance prediction |
+| 💳 Credit Card Approval | Credit approval prediction |
+| ⚡ AlgoViz | Data Structure Visualizer |
 
-🔗 [Explore My GitHub Repositories](https://github.com/anushka5545?tab=repositories)
+### Featured Repository
+
+[![AlgoViz](https://github-readme-stats.vercel.app/api/pin/?username=anushka5545&repo=Algoziv&theme=github_dark)](https://github.com/anushka5545/Algoziv)
+
+[**Explore all my repositories →**](https://github.com/anushka5545?tab=repositories)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=anushka5545&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anushka5545&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anushka5545&show_icons=true&theme=github_dark&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=anushka5545&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=anushka5545&theme=black-ice&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/anushka-powar-26276733b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
 <a href="https://github.com/anushka5545">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/anushka-powar-26276733b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<br/><br/>
 
-<div align="center">
+### 💙 LEARN • BUILD • GROW
 
-### ✨ "Learning Every Day, Building Every Day!" ✨
-
-⭐ Thank you for visiting my profile!
+**Thanks for visiting my profile!**
 
 </div>
