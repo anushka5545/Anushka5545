@@ -82,7 +82,20 @@
 
 ### Featured Repository
 
-[![AlgoViz](https://github-readme-stats.vercel.app/api/pin/?username=anushka5545&repo=Algoziv&theme=github_dark)](https://github.com/anushka5545/Algoziv)
+
+## 🚀 AlgoZiv – Data Structure Visualizer
+
+<p align="center">
+  <img src="algoziv-preview.png" width="800" alt="AlgoZiv Project Preview"/>
+</p>
+
+**Features:**
+- Stack and Queue Visualization
+- Linked List
+- Binary Tree
+- Graph Visualization
+- Step-by-step algorithms
+
 
 [**Explore all my repositories →**](https://github.com/anushka5545?tab=repositories)
 
