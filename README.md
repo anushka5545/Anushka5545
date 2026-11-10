@@ -85,10 +85,6 @@
 
 ## 🚀 AlgoZiv – Data Structure Visualizer
 
-<p align="center">
-  <img src="algoziv-preview.png" width="800" alt="AlgoZiv Project Preview"/>
-</p>
-
 **Features:**
 - Stack and Queue Visualization
 - Linked List
