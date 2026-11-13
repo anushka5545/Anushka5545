@@ -1,8 +1,15 @@
 # 👩‍💻 Anushka Santosh Powar
+
 ### Data Science Student | Machine Learning | Python | Data Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Portfolio!;Data+Science+Enthusiast;Machine+Learning+Explorer;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Data+Science+Enthusiast;Machine+Learning+Explorer;Building+Real-World+Projects" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-Student-007BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
@@ -21,19 +28,23 @@ Hello! I'm **Anushka Santosh Powar**, a BSc Data Science student passionate abou
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
-|---|---|
-| Programming | Python, SQL, HTML, CSS, JavaScript |
-| Data Analysis | Pandas, NumPy, Excel |
-| Visualization | Power BI, Tableau, Matplotlib |
-| Machine Learning | Scikit-learn, Regression, Classification |
-| Tools | Jupyter Notebook, Git, GitHub |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" />
+</p>
+
+**Data Analysis:** Pandas · NumPy · Excel
+
+**Data Visualization:** Power BI · Tableau · Matplotlib
+
+**Machine Learning:** Scikit-learn · Regression · Classification · Random Forest
+
+**Tools:** Jupyter Notebook · Git · GitHub · Streamlit
 
 ---
 
 ## 💼 Featured Projects
 
-### 1. 🏥 Healthcare Machine Learning – Diabetes Prediction
+### 🏥 01. Healthcare Machine Learning – Diabetes Prediction
 
 A machine learning application that predicts the likelihood of diabetes using patient health information.
 
@@ -41,11 +52,12 @@ A machine learning application that predicts the likelihood of diabetes using pa
 - **Model accuracy:** Approximately 74%.
 - **ROC-AUC:** 0.829.
 
-🔗 [GitHub Repository](https://github.com/anushka5545/Healthcare-ML)
-
+🔗 [GitHub Repository](https://github.com/anushka5545/Healthcare-ML)  
 🚀 [Live Demo](https://healthcare-ml-amfrbujtp9auk3seauqicl.streamlit.app/)
 
-### 2. 🎓 Student Performance Prediction System
+---
+
+### 🎓 02. Student Performance Prediction System
 
 A machine learning application that predicts student academic performance using factors such as attendance, study time and previous grades.
 
@@ -53,11 +65,12 @@ A machine learning application that predicts student academic performance using 
 - **Dataset:** UCI Student Performance Dataset.
 - **Test accuracy:** 87.34%.
 
-🔗 [GitHub Repository](https://github.com/anushka5545/Student-Performance-Prediction)
-
+🔗 [GitHub Repository](https://github.com/anushka5545/Student-Performance-Prediction)  
 🚀 [Live Demo](https://student-performance-prediction-iqxm5qp35r7mevojssmkl.streamlit.app/)
 
-### 3. 💳 Credit Risk Prediction System
+---
+
+### 💳 03. Credit Risk Prediction System
 
 A machine learning application that classifies credit applicants into Good Risk and Bad Risk categories using financial and personal information.
 
@@ -67,7 +80,9 @@ A machine learning application that classifies credit applicants into Good Risk 
 
 🔗 [GitHub Repository](https://github.com/anushka5545/Credit-Risk-Prediction)
 
-### 4. ⚡ AlgoViz – Professional Algorithm Visualizer
+---
+
+### ⚡ 04. AlgoViz – Professional Algorithm Visualizer
 
 An interactive web application that helps learners understand data structures and algorithms through visual demonstrations.
 
@@ -75,8 +90,7 @@ An interactive web application that helps learners understand data structures an
 - **Visualizers:** Stack, Queue, Linked List, Binary Search Tree and Graph.
 - **Features:** Interactive operations, algorithm demonstrations and complexity information.
 
-🔗 [GitHub Repository](https://github.com/anushka5545/AlgoViz-Professional)
-
+🔗 [GitHub Repository](https://github.com/anushka5545/AlgoViz-Professional)  
 🌐 [Live Website](https://anushka5545.github.io/AlgoViz-Professional/)
 
 ---
@@ -96,13 +110,13 @@ An interactive web application that helps learners understand data structures an
 
 <p align="center">
   <a href="https://github.com/anushka5545">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/anushka-powar-26276733b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:powaranushka241@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -110,8 +124,8 @@ An interactive web application that helps learners understand data structures an
 
 ## 💡 My Goal
 
-"To continuously learn, explore data, develop intelligent solutions and grow as a Data Scientist."
+> To continuously learn, explore data, develop intelligent solutions and grow as a Data Scientist.
 
 <p align="center">
-  ⭐ Thank you for visiting my portfolio! ⭐
+  ⭐ Thank you for visiting my GitHub profile! ⭐
 </p>
