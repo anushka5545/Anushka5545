@@ -1,141 +1,117 @@
+# 👩‍💻 Anushka Santosh Powar
+### Data Science Student | Machine Learning | Python | Data Analytics
 
-<div align="center">
-
-# ANUSHKA SANTOSH POWAR
-
-### 💙 DATA SCIENCE | MACHINE LEARNING | PYTHON
-
-<img src="https://img.shields.io/badge/DATA%20SCIENCE-000000?style=for-the-badge&logo=databricks&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF"/>
-
-**Welcome to my GitHub profile!**
-
-*Turning data into insights and ideas into projects.*
-
-</div>
-
----
-
-## 👩‍💻 ABOUT ME
-
-- 🎓 B.Sc. Data Science Student
-- 🐍 Python and SQL enthusiast
-- 🤖 Interested in AI and Machine Learning
-- 📊 Learning Data Analytics and Visualization
-- 🚀 Building real-world projects
-
----
-
-
-
-## 💻 MY SKILLS
-
-### 🚀 Programming Languages
-<p align="left">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00BFFF"/>
-</p>
-
-### 📊 Data Science & Libraries
-<p align="left">
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF"/>
-</p>
-
-### 🤖 Machine Learning
-<p align="left">
-<img src="https://img.shields.io/badge/Regression-000000?style=for-the-badge&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Classification-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-000000?style=for-the-badge"/>
-</p>
-
-### 📈 Data Visualization
-<p align="left">
-<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00BFFF"/>
-</p>
-
-### 🛠️ Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00BFFF"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Portfolio!;Data+Science+Enthusiast;Machine+Learning+Explorer;Building+Real-World+Projects" />
 </p>
 
 ---
 
-## 🚀 MY PROJECTS
+## 🚀 About Me
 
-| Project | Description |
+Hello! I'm **Anushka Santosh Powar**, a BSc Data Science student passionate about transforming data into meaningful insights and building intelligent applications.
+
+- 🎓 Pursuing BSc Data Science at D. Y. Patil Agriculture and Technical University, Talsande.
+- 💻 Completed Data Science training at Puneri Pattern Pvt. Ltd., Pune.
+- 📊 Interested in Data Science, Machine Learning and Data Visualization.
+- 🌱 Continuously learning and developing practical projects.
+- 🎯 Career Goal: Data Scientist.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
 |---|---|
-| 🏥 Healthcare ML | Healthcare prediction using Machine Learning |
-| 🎓 Student Performance | Student performance prediction |
-| 💳 Credit Card Approval | Credit approval prediction |
-| ⚡ AlgoViz | Data Structure Visualizer |
-
-### Featured Repository
-
-
-## 🚀 AlgoZiv – Data Structure Visualizer
-
-**Features:**
-- Stack and Queue Visualization
-- Linked List
-- Binary Tree
-- Graph Visualization
-- Step-by-step algorithms
-
-
-[**Explore all my repositories →**](https://github.com/anushka5545?tab=repositories)
+| Programming | Python, SQL, HTML, CSS, JavaScript |
+| Data Analysis | Pandas, NumPy, Excel |
+| Visualization | Power BI, Tableau, Matplotlib |
+| Machine Learning | Scikit-learn, Regression, Classification |
+| Tools | Jupyter Notebook, Git, GitHub |
 
 ---
 
+## 💼 Featured Projects
 
+### 1. 🏥 Healthcare Machine Learning – Diabetes Prediction
 
-## 📊 MY GITHUB STATISTICS
+A machine learning application that predicts the likelihood of diabetes using patient health information.
+
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit.
+- **Model accuracy:** Approximately 74%.
+- **ROC-AUC:** 0.829.
+
+🔗 [GitHub Repository](https://github.com/anushka5545/Healthcare-ML)
+
+🚀 [Live Demo](https://healthcare-ml-amfrbujtp9auk3seauqicl.streamlit.app/)
+
+### 2. 🎓 Student Performance Prediction System
+
+A machine learning application that predicts student academic performance using factors such as attendance, study time and previous grades.
+
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Random Forest, Streamlit.
+- **Dataset:** UCI Student Performance Dataset.
+- **Test accuracy:** 87.34%.
+
+🔗 [GitHub Repository](https://github.com/anushka5545/Student-Performance-Prediction)
+
+🚀 [Live Demo](https://student-performance-prediction-iqxm5qp35r7mevojssmkl.streamlit.app/)
+
+### 3. 💳 Credit Risk Prediction System
+
+A machine learning application that classifies credit applicants into Good Risk and Bad Risk categories using financial and personal information.
+
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Logistic Regression, Streamlit.
+- **Dataset:** German Credit Risk Dataset.
+- **Features:** Data preprocessing, model comparison and risk prediction.
+
+🔗 [GitHub Repository](https://github.com/anushka5545/Credit-Risk-Prediction)
+
+### 4. ⚡ AlgoViz – Professional Algorithm Visualizer
+
+An interactive web application that helps learners understand data structures and algorithms through visual demonstrations.
+
+- **Technologies:** HTML5, CSS3, JavaScript.
+- **Visualizers:** Stack, Queue, Linked List, Binary Search Tree and Graph.
+- **Features:** Interactive operations, algorithm demonstrations and complexity information.
+
+🔗 [GitHub Repository](https://github.com/anushka5545/AlgoViz-Professional)
+
+🌐 [Live Website](https://anushka5545.github.io/AlgoViz-Professional/)
+
+---
+
+## 🎓 Education
+
+- **BSc Data Science** – D. Y. Patil Agriculture and Technical University, Talsande.
+- **Data Science Training** – Puneri Pattern Pvt. Ltd., IT Park, Magarpatta, Pune.
+- **HSC** – Ganesh Academy, Peth Vadgaon.
+- **SSC** – Disha English Medium, Peth Vadgaon.
+
+🏆 **Achievement:** Smt. Shantadevi Scholarship – D. Y. Patil Agriculture and Technical University, Talsande.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anushka5545&theme=github_dark" width="100%" />
+  <a href="https://github.com/anushka5545">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anushka-powar-26276733b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:powaranushka241@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 💡 My Goal
+
+"To continuously learn, explore data, develop intelligent solutions and grow as a Data Scientist."
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anushka5545&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anushka5545&theme=github_dark" width="49%" />
+  ⭐ Thank you for visiting my portfolio! ⭐
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anushka5545&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anushka5545&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anushka5545&theme=black-ice&hide_border=true&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
-</p>
-
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/anushka5545">
-<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anushka-powar-26276733b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br/><br/>
-
-### 💙 LEARN • BUILD • GROW
-
-**Thanks for visiting my profile!**
-
-</div>
